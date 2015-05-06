@@ -75,10 +75,10 @@ arrays and linked lists.
 
 ## Resources
 
-1. [Welcome Slides]
-1. [Java Overview Slides]
-1. [Testing and JUnit]
-1. [Chapter 01: Getting Organized Slides]
-1. [Chapter 02: Abstract Data Types Slides]
-1. [Example Eclipse Project]
-1. [Book Chapter 2 Eclipse Project]
+1. [Welcome Slides](slides/00-welcome.pdf)
+1. [Java Overview Slides](slides/01-java-overview.pdf)
+1. [Testing and JUnit](slides/00-testing-and-junit.pdf)
+1. [Chapter 01: Getting Organized Slides](slides/02-chapter-01.pdf)
+1. [Chapter 02: Abstract Data Types Slides](slides/03-chapter-02.pdf)
+1. [Example Eclipse Project](code/examples.zip)
+1. [Book Chapter 2 Eclipse Project](code/book-ch-02.zip)
