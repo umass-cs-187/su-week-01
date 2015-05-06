@@ -1,4 +1,6 @@
-# Week 01: Getting Organized and Abstract Data Types
+# W01: Programming With Data Structures
+
+## Getting Organized and Abstract Data Types
 
 Welcome to the first week of CMPSCI 187. Each week will begin with the
 release of new material that will be accessible from that week's
