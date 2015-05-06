@@ -69,6 +69,10 @@ arrays and linked lists.
 
 ## Videos
 
+You should watch the screencast lectures in the order they are listed
+below. It may be helpful for you to do the reading before watching the
+recorded videos followed by another pass through the readings.
+
 1. [Welcome](http://youtu.be/CVGVHo4bnEQ)
 1. [JUnit Overview](http://youtu.be/ibv9KbOhBx0)
 1. [Eclipse Introduction](http://youtu.be/ThibUAh93P8)
@@ -78,6 +82,10 @@ arrays and linked lists.
 1. [Eclipse Import and Export](http://youtu.be/ilu1QdBclyc)
 
 ## Resources
+
+Below is a list of the resources associated with the reading and
+videos. You can download each individually or [download] the complete
+set of material.
 
 1. [Welcome Slides](slides/00-welcome.pdf)
 1. [Java Overview Slides](slides/01-java-overview.pdf)
