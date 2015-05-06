@@ -17,6 +17,10 @@ it is important, Java interfaces, the `StringLog` abstract data type
 (ADT), and how the `StringLog` interface can be implemented using
 arrays and linked lists.
 
+*To get access to this material [download] the zip archive.*
+
+[download]: https://github.com/umass-cs-187/su-week-01/archive/master.zip
+
 ## Learning Goals
 
 * Explain the software life-cycle activities.
