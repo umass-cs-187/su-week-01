@@ -74,7 +74,9 @@ below. It may be helpful for you to do the reading before watching the
 recorded videos followed by another pass through the readings.
 
 1. [Welcome](http://youtu.be/CVGVHo4bnEQ)
-1. [JUnit Overview](http://youtu.be/ibv9KbOhBx0)
+1. [JUnit Overview](http://youtu.be/ibv9KbOhBx0), note that this
+   covers a different first assignment than the one we will be using
+   during this summer session.
 1. [Eclipse Introduction](http://youtu.be/ThibUAh93P8)
 1. [Java Overview](http://youtu.be/og1-z2aBsWY)
 1. [Chapter 1: Getting Organized](http://youtu.be/o_1qR7IHvtw)
